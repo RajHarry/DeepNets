@@ -1,1 +1,7 @@
 /Data/*.txt
+.DS_Store
+Google_DL/udacity/*
+Google_DL/.ipynb_checkpoints/*
+
+
+
