@@ -4,4 +4,9 @@ Google_DL/udacity/*
 Google_DL/.ipynb_checkpoints/*
 
 
+Keras/.ipynb_checkpoints/
+Data/*.json
+Data/*.csv
+
+LSTM/.ipynb_checkpoints/
 
