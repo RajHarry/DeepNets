@@ -10,3 +10,7 @@ Data/*.csv
 
 LSTM/.ipynb_checkpoints/
 
+
+
+Keras/Keras_from_scratch/Vision/*.h5
+Keras/Keras_from_scratch/Vision/.ipynb_checkpoints/*
